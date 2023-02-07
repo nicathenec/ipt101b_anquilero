@@ -8,4 +8,3 @@ This is my project for IPT 101 B
 - Step 1: Download the zip file or use git clone
 
 Commit 1
-Commit 2
